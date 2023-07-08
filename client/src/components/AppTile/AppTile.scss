@@ -1,0 +1,15 @@
+.app-tile {
+  margin: 10px;
+  padding: 20px;
+  color: white;
+
+  .MuiButton-startIcon {
+    position: absolute;
+    left: 1rem;
+
+  }
+
+  .title {
+    font-size: 1.5em;
+  }
+}
